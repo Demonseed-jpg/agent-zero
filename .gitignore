@@ -8,6 +8,7 @@
 #Ignore IDE files
 .cursor/
 .windsurf/
+.vscode/
 
 # ignore test files in root dir
 /*.test.py
